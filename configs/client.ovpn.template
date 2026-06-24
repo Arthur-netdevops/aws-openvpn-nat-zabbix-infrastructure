@@ -1,0 +1,24 @@
+client
+dev tun
+proto udp
+remote <ELASTIC_IP> 1194
+
+resolv-retry infinite
+nobind
+persist-key
+persist-tun
+cipher AES-256-CBC
+verb 3
+
+<ca>
+# Coller ici le contenu de : cat ~/easy-rsa/pki/ca.crt
+</ca>
+
+<cert>
+# Coller ici le contenu de : cat ~/easy-rsa/pki/issued/client1.crt
+# (uniquement la section -----BEGIN CERTIFICATE----- à -----END CERTIFICATE-----)
+</cert>
+
+<key>
+# Coller ici le contenu de : cat ~/easy-rsa/pki/private/client1.key
+</key>
