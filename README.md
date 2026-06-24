@@ -17,7 +17,7 @@
 
 ---
 
-**Auteur** : [@Arthur-Netdevops](https://github.com/Arthur-Netdevops) • **Niveau** : Débutant • **Durée** : ~2-3h • **Coût** : ~0 $/mois
+**Auteur** : [@Arthur-Netdevops](https://github.com/Arthur-Netdevops)  • **Coût** : ~0 $/mois
 
 </div>
 
