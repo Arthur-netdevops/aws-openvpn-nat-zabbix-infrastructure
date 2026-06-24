@@ -3,7 +3,6 @@
 # 🏗️ Mise en œuvre d'une infrastructure cloud sécurisée sous AWS basée sur OpenVPN, une NAT Instance Debian et la supervision centralisée avec Zabbix
 
 ### Laboratoire Cloud AWS — OpenVPN + NAT Instance Debian + Supervision Centralisée Zabbix
-![alt text](architecture-1.png)
 *Un lab complet, sécurisé et supervisé sur AWS — déployable à coût quasi nul grâce au Free Tier*
 
 ---
